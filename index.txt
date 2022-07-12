@@ -1,0 +1,7 @@
+2.
+Great work! The home and store pages look leagues better than when you started. If you want to challenge yourself, consider:
+
+Add/Remove instruments to the store.
+Change the overall layout of the website.
+Create additional styling in public/style.css.
+Add and link to an additional page for Musicon
